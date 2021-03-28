@@ -139,6 +139,7 @@ namespace _3.textRPG
 
                 //몬스터 생성
                 Monster monster;
+                
                 //4. 랜덤으로 몬스터를 만들 함수를 작성
                 CreateRandomMonster(out monster);
 
